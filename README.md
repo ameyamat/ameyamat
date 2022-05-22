@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameyamat&show_icons=true&locale=en&layout=compact" alt="ameyamat" /></p>
 
-[![Ameya's github activity graph](https://activity-graph.herokuapp.com/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/ameyamat/github-readme-activity-graph)
+[![Ameya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameyamat&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/ameyamat/github-readme-activity-graph)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameyamat&show_icons=true&locale=en" alt="ameyamat" /></p>
 
