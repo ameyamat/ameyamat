@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Fraud Call Analysis/Detection**
+- 🔭 I’m currently working on **Fraud Call**
 
-- 🌱 I’m currently learning **Flutter, Java, Microsoft Azure, Google Cloud**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android UI using Flutter**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ameyamathur@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18665Z9FbKe25NKRExaazbV5LvO6eNFyC/view?usp=sharing](https://drive.google.com/file/d/18665Z9FbKe25NKRExaazbV5LvO6eNFyC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/](https://drive.google.com/file/d/18665Z9FbKe25NKRExaazbV5LvO6eNFyC/view?usp=sharing)
 
 - ⚡ Fun fact **I love talking about Mythology**
 
