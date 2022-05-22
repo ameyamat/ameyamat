@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameyamat&show_icons=true&locale=en&layout=compact" alt="ameyamat" /></p>
 
-<p><img src="https://camo.githubusercontent.com/81f56f3f512c7af659b51209fe3841b27dc07fbe2bfdfee459fe4cd621c69c14/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d524f48414e383432267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=AMEYAMAT&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></p>
+[![Ameya's github activity graph](https://activity-graph.herokuapp.com/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/ameyamat/github-readme-activity-graph)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameyamat&show_icons=true&locale=en" alt="ameyamat" /></p>
 
