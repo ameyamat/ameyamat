@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/ameyamathur/)
 <h1 align="center">Hi 👋, I'm Ameya Mathur</h1>
 <h3 align="center">A passionate problem solver from India</h3>
-<p align = "right"><img align="right" style = "float:left !important;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<p align = "right"><img align="right" style = "float:left !important;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img src="https://komarev.com/ghpvc/?username=ameyamat&label=Profile%20views&color=0e75b6&style=flat" alt="ameyamat" />
 
 - 🔭 I’m currently working on **Fraud Call**
@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [https://drive.google.com/](https://drive.google.com/file/d/18665Z9FbKe25NKRExaazbV5LvO6eNFyC/view?usp=sharing)
 
 - ⚡ Fun fact **I**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ameyamathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameyamathur" height="30" width="40" /></a>
