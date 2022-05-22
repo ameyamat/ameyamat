@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Android UI using Flutter**
+- 👯 I’m looking to collaborate on **Android**
 
-- 💬 Ask me about **Cloud Computing, Flutter**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **ameyamathur@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/](https://drive.google.com/file/d/18665Z9FbKe25NKRExaazbV5LvO6eNFyC/view?usp=sharing)
 
-- ⚡ Fun fact **I love talking about Mythology**
+- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
